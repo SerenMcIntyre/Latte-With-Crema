@@ -1,0 +1,26 @@
+{
+  "name": "latte-with-crema-theme",
+  "displayName": "Latte With Crema",
+  "description": "A cozy coffee inspired theme with pastel pinks for comfy flair",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Latte With Crema",
+        "uiTheme": "vs",
+        "path": "./themes/Latte With Crema-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "SerenMcIntyre",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SerenMcIntyre/Latte-With-Crema.git"
+  }
+}
