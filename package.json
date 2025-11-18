@@ -2,7 +2,7 @@
   "name": "latte-with-crema-theme",
   "displayName": "Latte With Crema",
   "description": "A cozy coffee inspired theme with pastel pinks for comfy flair",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.106.1"
   },
